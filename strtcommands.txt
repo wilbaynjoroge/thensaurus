@@ -1,0 +1,3 @@
+cd wordcount-project
+
+c:\progra~1\python37\python manage.py runserver
